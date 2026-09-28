@@ -1,3 +1,5 @@
 .env
 ade_lambda.zip
 medical/
+.idea/
+__pycache__/
